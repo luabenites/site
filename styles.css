@@ -30,7 +30,7 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/4965007.jpg');
+    background-image: url('https://gauchazh.clicrbs.com.br/cultura-e-lazer/musica/noticia/2020/01/cyberpunk-e-romantico-luan-santana-quer-viralizar-o-amor-no-planeta-atlantida-2020-ck5ziq23m0eez01qdsyhu0atx.html');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -108,12 +108,12 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
+    background: url('https://share.google/images/sSB1By1qzm6wWcrho') bottom right no-repeat;')
     background-size: 180px 180px;
 }
 
 #contato {
-    background-image: url('img/4965007.jpg');
+    background-image: url('https://share.google/images/sSB1By1qzm6wWcrho');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
